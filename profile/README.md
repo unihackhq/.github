@@ -1,5 +1,5 @@
 
-![UNIHACK Banner](./github-banner.png)
+![UNIHACK Banner](https://raw.githubusercontent.com/unihackhq/.github/main/profile/github-banner.png)
 
 ## This is UNIHACK 👋
 
